@@ -1,0 +1,26 @@
+[
+  {
+    "isbn": "9780140449136",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "available": true
+  },
+  {
+    "isbn": "9780141439518",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "available": true
+  },
+  {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "available": true
+  },
+  {
+    "isbn": "9780307277671",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "available": true
+  }
+]
